@@ -1,5 +1,4 @@
-already contact mingxun, waiting for reply.
-
+schedule a meeting with mingxun
 
 This is essentially a coursework. Initially 36 people in the chat group, and I shared the method to do literature search using key words in Pubmed, SCOPUS, and SCI, and then imported into zotero to remove duplicates https://www.zotero.org/groups/5514750/diabetic_neuropathy/ . I also taught how to screening literatures according to the abstract in several zoom meetings. 
 
